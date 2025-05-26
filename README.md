@@ -53,8 +53,4 @@ The website is fully responsive and optimized for:
 - Social media links with hover animations
 - Theme persistence using localStorage
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/maheshbatta938/Portfolio/issues).
-
 
