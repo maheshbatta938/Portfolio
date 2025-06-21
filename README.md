@@ -20,10 +20,8 @@ A modern and interactive portfolio website built with HTML, CSS, and JavaScript.
 
 - HTML5
 - CSS3
-- JavaScript
-- [Typed.js](https://github.com/mattboldt/typed.js/) - For typing animation
-- [ScrollReveal](https://scrollrevealjs.org/) - For scroll animations
-- [Boxicons](https://boxicons.com/) - For modern icons
+- JavaScript(Venallia)
+
 
 ## 🚀 Sections
 
